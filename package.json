@@ -3,12 +3,17 @@
   "displayName": "VSCode Theme Pack",
   "description": "Ugo Brocard's Base VSCode customisation Pack",
   "version": "1.0.0",
+  "publisher": "ugobrocardpro",
   "engines": {
     "vscode": "^1.76.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "icon": "logo.png",
+  "repository": {
+    "url": "https://github.com/UgoBrocardOfficiel/vscode-customisation"
+  },
   "extensionPack": [ 
     "miguelsolorio.fluent-icons", 
     "PKief.material-icon-theme", 
